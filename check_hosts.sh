@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Ai fost furculitat ! "
+
 verify_host() {
     local name="$1"
     local ip="$2"
